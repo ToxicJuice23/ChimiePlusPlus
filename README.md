@@ -1,7 +1,7 @@
 Chimie++ est une application en français, multiplateforme pour ordinateur compatible avec Windows, MacOS et Linux. Notre but avec Chimie++ est d'aider n'importe qui avec des travaux relié à la chimie en restant accessible pour plus de gens que possible. Chimie++ peut aussi être utiliser pour le plaisir, pour les gens passionnés de chimie. Avec Chimie++, tout est possible.
 
 
-# Instalation
+# Instalation https://github.com/ToxicJuice23/Chimieplusplus/releases
 
 ## Windows:
 
